@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "cd techgear-cart && npm start"
+  },
   "dependencies": {
     "react-redux": "^9.3.0",
     "redux": "^5.0.1"
